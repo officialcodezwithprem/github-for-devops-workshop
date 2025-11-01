@@ -1,0 +1,47 @@
+apt get install
+    2  sudo - apt get install
+    3  clear
+    4  git --version
+    5  python --version
+    6  clear
+    7  sudo apt-get install python3.7
+    8  git --version
+    9  python --version
+   10  clear
+   11  python3 --version
+   12  mkdir git-for-devops-hub
+   13  cd
+   14  cd git-for-devops-hub
+   15  touch testing.py
+   16  cd testing.py
+   17  vi testing.py
+   18  python3 testing.py
+   19  vi testing.py
+   20  python3 testing.py
+   21  ls
+   22  ls -l
+   23  rm testing.py
+   24  ls
+   25  cd ~/git-for-devops-hub
+   26  clear
+   27  git init
+   28  ls -a
+   29  clear
+   30  git status
+   31  touch testing.py
+   32  vi testing.py
+   33  git status
+   34  git add testing.py
+   35  git status
+   36  git rm --cached testing.py
+   37  git status
+   38  git add testing.py
+   39  git status
+   40  git commit -m "add testing files"
+   41  git status
+   42  rm testing.py
+   43  ls
+   44  git restore testing.py
+   45  ls
+   46  clear
+   47  touch git_commands.txt
